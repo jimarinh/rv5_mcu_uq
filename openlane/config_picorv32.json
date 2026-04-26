@@ -1,0 +1,14 @@
+{
+	"DESIGN_NAME": "MCU_UQ_SPIMEM",
+	"VERILOG_FILES": ["dir::/../src/mcu/mcu_uq_picorv32_sky130.v", "dir::/../src/mcu/picorv32_sky130.v"],
+	"CLOCK_PORT": "clk",
+	"FP_PIN_ORDER_CFG": "dir::pin_order_picorv32.cfg",
+	"FP_PDN_VOFFSET": 7,
+	"FP_PDN_HOFFSET": 7,
+	"FP_PDN_SKIPTRIM": true,
+	"FP_CORE_UTIL" : 40,
+	"CLOCK_PERIOD": 10,
+	"DESIGN_IS_CORE": true,
+	"PNR_SDC_FILE" : "dir::mcu_uq.sdc",
+	"SIGNOFF_SDC_FILE" : "dir::mcu_uq.sdc"
+}
