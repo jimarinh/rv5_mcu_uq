@@ -1,6 +1,6 @@
 # RISC-V based Microcontroller Unit (MCU-UQ)
-### Jorge I. Marin-Hurtado, Alexander Vera-Tasama, Alexander Lopez-Parrado, L.M. Capacho-Valbuena
-### Universidad del Quindio, Colombia
+_Jorge I. Marin-Hurtado, Alexander Vera-Tasama, Alexander Lopez-Parrado, L.M. Capacho-Valbuena_
+_Universidad del Quindio, Colombia_
 
 This repository describes a RISC-V-based microcontroller and its firmware. The proposed architecture is based on the PicoRV32 core (RV32I) extended with the following peripherals:
 
